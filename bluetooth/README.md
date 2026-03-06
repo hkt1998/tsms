@@ -1,4 +1,4 @@
-# 蓝牙测试用例
+# Bluetooth Test Cases
 
 本分类包含蓝牙相关的所有测试用例。
 

@@ -1,4 +1,4 @@
-# CAN 总线测试用例
+# CAN Bus Test Cases
 
 本分类包含 CAN 总线相关的所有测试用例。
 

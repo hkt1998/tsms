@@ -1,4 +1,4 @@
-# 车载以太网测试用例
+# Automotive Ethernet Test Cases
 
 本分类包含车载以太网相关的所有测试用例。
 
